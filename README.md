@@ -6,7 +6,8 @@
   src="./Image3.jpeg" 
   alt="Evans Mulemba" 
   width="200"
-  style="border-radius: 50%;"
+  height="200"
+  style="border-radius: 50%; object-fit: cover;"
 />
 </td>
 
