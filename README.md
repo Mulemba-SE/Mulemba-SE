@@ -2,7 +2,7 @@
 <tr>
 <td width="30%" align="center">
 
-<img src="./image2.jpeg" alt="Evans Mulemba" width="200"/>
+<img src="./image3.jpeg" alt="Evans Mulemba" width="200"/>
 
 </td>
 
