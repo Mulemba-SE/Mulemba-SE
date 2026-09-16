@@ -1,5 +1,7 @@
 # Hi, I'm Evans Mulemba 👋
 
+<img src="./image2.jpeg" alt="Evans Mulemba" width="200"/>
+
 ### Software Developer | React • TypeScript • Next.js • Node.js
 
 I'm a Software Developer passionate about building modern, practical, and user-friendly software applications.
