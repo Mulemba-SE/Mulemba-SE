@@ -3,11 +3,10 @@
 <td width="30%" align="center">
 
 <img 
-  src="./Image3.jpeg" 
-  alt="Evans Mulemba" 
+  src="./image4.png" 
+  alt="Evans Mulemba"
   width="200"
   height="200"
-  style="border-radius: 50%; object-fit: cover;"
 />
 </td>
 
