@@ -3,7 +3,7 @@
 <td width="30%" align="center">
 
 <img 
-  src="./image4.png" 
+  src="./profileimage.png" 
   alt="Evans Mulemba"
   width="200"
   height="200"
